@@ -1,5 +1,5 @@
 ### HELLO 👋
-Je suis développeur full-stack et architecte logiciel passionné. Je conçois des applications robustes en combinant Spring Boot, Node.js, Flutter et bien d'autres technologies. J'aime aussi explorer la data science et l'IA. 🚀 Toujours en quête d'optimisation et d'innovation !
+I am a passionate full-stack developer and software architect. I know how to build robust applications by combining Spring Boot, Node.js, Flutter, and many other technologies. I also enjoy exploring data science and AI. 🚀 Always looking for optimization and innovation!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fireskull_tg) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kodjo-jean-gaël-ameganvi-ba1a95133) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/fireskull_tg) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@flashpoint4548) 
